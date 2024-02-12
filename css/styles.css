@@ -1,0 +1,75 @@
+body {
+    background-color: #093b80;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    padding-bottom: 10px;
+}
+p{
+    font-size: 13px;
+}
+
+#title .container-fluid {
+    padding: 5% 15% 2%;
+    background-color: #FFFFFF;
+}
+
+#main-content .container-fluid {
+    padding: 2% 15% 2%;    
+}
+
+#main-content .container-fluid .container-main{
+    padding: 3% 3% 1%;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+
+.main-calculate-button{
+    margin-top: 32px;
+    height: 50px;
+    background-color: #093b80;
+}
+.main-calculate-button:hover{
+    background-color: #093b80CC;
+}
+
+.input-text-main{
+    margin-bottom: 8px;
+    height: 50px;
+}
+
+.container-calc-salary{
+    padding: 3% 3% 1%;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+.container-calc-salary-main{
+    padding: 2% 0;
+}
+.container-calc-salary-left{
+    margin: 0 2% 2% 0;
+}
+.container-calc-salary-right{
+    margin: 0 0 2% 2%;
+}
+.font-weight-bold{
+    margin: 10px 0;
+    font-weight: 900;
+}
+.font-weight-bold1{
+    font-weight: 900;
+    font-size: 16px;
+}
+.col-salary-num{
+    text-align: right;
+}
+
+.errorShow{
+    color: red;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+
